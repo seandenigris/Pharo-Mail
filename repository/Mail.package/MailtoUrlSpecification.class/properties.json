@@ -1,0 +1,14 @@
+{
+	"category" : "Mail-Specification",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MailtoUrlSpecification",
+	"pools" : [
+		 ],
+	"super" : "BabyPhexample",
+	"type" : "normal" }

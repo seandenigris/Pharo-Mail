@@ -1,0 +1,14 @@
+{
+	"category" : "Mail",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MailtoUrl",
+	"pools" : [
+		 ],
+	"super" : "ZnUrl",
+	"type" : "normal" }
