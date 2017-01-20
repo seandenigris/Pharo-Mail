@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfPharoMail",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfPharoMail",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }
